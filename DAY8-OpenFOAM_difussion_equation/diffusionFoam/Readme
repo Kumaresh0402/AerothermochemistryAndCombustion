@@ -1,1 +1,4 @@
+Commands to compile:
 
+wclean
+wmake
