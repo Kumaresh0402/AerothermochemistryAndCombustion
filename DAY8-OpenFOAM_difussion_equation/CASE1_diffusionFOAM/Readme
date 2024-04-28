@@ -3,3 +3,5 @@ Run the following commands:
 blockMesh
 diffusionFoam
 touch diffusion.Foam
+
+Open "paraview" and generate contour and line plot
