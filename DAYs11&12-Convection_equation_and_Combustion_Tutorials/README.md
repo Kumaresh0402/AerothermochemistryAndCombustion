@@ -8,8 +8,15 @@ DAYs 11 and 12
   * setFields
   * simpleConvection
   
-2) Creating a new OpenFOAM solver based on icoFoam by adding temperature field
-3) Running combustion tutorials in OpenFOAMv2306 or OpenFOAMv2312
+2) Running combustion tutorials in OpenFOAMv2306 or OpenFOAMv2312
+3) Creating a new OpenFOAM solver based on icoFoam by adding temperature field
 
 
 Add Exercises and Projects here:
+1) Solving Convection equation in OpenFOAM
+https://github.com/Kumaresh0402/AerothermochemistryAndCombustion/discussions/11
+
+2) Running combustion tutorials
+
+3) New OpenFOAM solver
+https://github.com/Kumaresh0402/AerothermochemistryAndCombustion/discussions/12
