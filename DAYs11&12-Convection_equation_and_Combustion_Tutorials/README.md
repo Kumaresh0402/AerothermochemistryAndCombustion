@@ -1,4 +1,4 @@
-DAYs 11 and 12
+**DAYs 11 and 12**
 
 1) Solving Convection equation in OpenFOAM (check convection.zip)
 * solver
@@ -12,7 +12,9 @@ DAYs 11 and 12
 3) Creating a new OpenFOAM solver based on icoFoam by adding temperature field
 
 
-Add Exercises and Projects here:
+
+**Exercises and Projects here**
+
 1) Solving Convection equation in OpenFOAM
 https://github.com/Kumaresh0402/AerothermochemistryAndCombustion/discussions/11
 
