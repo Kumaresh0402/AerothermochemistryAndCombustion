@@ -1,6 +1,6 @@
 DAYs 11 and 12
 
-1) Solving Convection equation in OpenFOAM
+1) Solving Convection equation in OpenFOAM (check convection.zip)
 * solver
   * simpleConvectionSolver
 * case
