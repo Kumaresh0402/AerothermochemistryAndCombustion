@@ -13,7 +13,7 @@
 
 
 
-**Exercises and Projects here**
+**Exercises and Projects**
 
 1) Solving Convection equation in OpenFOAM
 https://github.com/Kumaresh0402/AerothermochemistryAndCombustion/discussions/11
